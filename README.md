@@ -1,4 +1,4 @@
-# python_final_project
+# python_ecg_detections
 
 
 The task is to find the R-peaks, so that we can divide a long ECG signal
