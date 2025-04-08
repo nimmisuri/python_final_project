@@ -15,3 +15,9 @@ for each classifier.
 • RandomForestClassifier
 • Report the training accuracy and the test accuracy in a Table (pandas dataframe
 
+
+Then, Build three classifiers to classifier the ECG signals into 5 classes, and find the optimal value of the
+parameter for each classifier by using five fold cross-validation (GridSearchCV).
+• KNeighborsClassifier (n_neighbors)
+• DecisionTreeClassifier(max_depth)
+• RandomForestClassifier(max_depth)
