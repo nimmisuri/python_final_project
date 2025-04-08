@@ -7,3 +7,11 @@ into individual heart beats.
 • A by-product: we can use the R-peaks to calculate heart rate 
 - The ECG signals have been divided into individual beats
 
+- Build four classifiers to classifier the ECG signals into 5 classes, using the default parameter values
+for each classifier.
+• KNeighborsClassifier
+• LogisticRegression
+• DecisionTreeClassifier
+• RandomForestClassifier
+• Report the training accuracy and the test accuracy in a Table (pandas dataframe
+
